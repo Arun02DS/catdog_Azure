@@ -22,11 +22,11 @@ git push -u origin main
 
 # Azure Deployment
 ##STEPS
-1. ![image](https://github.com/Arun02DS/catdog_Azure/blob/3f213d99ba0f0cb571f77406bc7929faee26a23a/deployment/1.png)
-2. ![image](https://github.com/Arun02DS/catdog_Azure/blob/3f213d99ba0f0cb571f77406bc7929faee26a23a/deployment/2.png)
-3. ![image](https://github.com/Arun02DS/catdog_Azure/blob/3f213d99ba0f0cb571f77406bc7929faee26a23a/deployment/3.png)
-4. ![image](https://github.com/Arun02DS/catdog_Azure/blob/3f213d99ba0f0cb571f77406bc7929faee26a23a/deployment/4.png)
-5. ![image](https://github.com/Arun02DS/catdog_Azure/blob/3f213d99ba0f0cb571f77406bc7929faee26a23a/deployment/5.png)
-6. ![image](https://github.com/Arun02DS/catdog_Azure/blob/3f213d99ba0f0cb571f77406bc7929faee26a23a/deployment/6.png)
-7. ![image](https://github.com/Arun02DS/catdog_Azure/blob/3f213d99ba0f0cb571f77406bc7929faee26a23a/deployment/7.png)
-8. ![image](https://github.com/Arun02DS/catdog_Azure/blob/3f213d99ba0f0cb571f77406bc7929faee26a23a/deployment/8.png)
+![image1](https://github.com/Arun02DS/catdog_Azure/blob/3f213d99ba0f0cb571f77406bc7929faee26a23a/deployment/1.png)
+![image2](https://github.com/Arun02DS/catdog_Azure/blob/3f213d99ba0f0cb571f77406bc7929faee26a23a/deployment/2.png)
+![image3](https://github.com/Arun02DS/catdog_Azure/blob/3f213d99ba0f0cb571f77406bc7929faee26a23a/deployment/3.png)
+![image4](https://github.com/Arun02DS/catdog_Azure/blob/3f213d99ba0f0cb571f77406bc7929faee26a23a/deployment/4.png)
+![image5](https://github.com/Arun02DS/catdog_Azure/blob/3f213d99ba0f0cb571f77406bc7929faee26a23a/deployment/5.png)
+![image6](https://github.com/Arun02DS/catdog_Azure/blob/3f213d99ba0f0cb571f77406bc7929faee26a23a/deployment/6.png)
+![image7](https://github.com/Arun02DS/catdog_Azure/blob/3f213d99ba0f0cb571f77406bc7929faee26a23a/deployment/7.png)
+![image8](https://github.com/Arun02DS/catdog_Azure/blob/3f213d99ba0f0cb571f77406bc7929faee26a23a/deployment/8.png)
